@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp1, Configuration: Debug Any CPU ------
+1>C:\Users\Aishwarya Patil\source\repos\ConsoleApp1\Program.cs(16,20,16,21): warning CS0219: The variable 'a' is assigned but its value is never used
+1>  ConsoleApp1 -> C:\Users\Aishwarya Patil\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
